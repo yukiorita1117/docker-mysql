@@ -5,8 +5,8 @@
 
 ## 使用しているアーキテクト
 
-- Docker (Docker Compose)
-  以下参考。
+- Docker (Docker Compose)<br/>
+  以下参考。<br/>
   https://knowledge.sakura.ad.jp/16862/
 
 - MySQL イメージ(ver. 8.0 を使用)

@@ -13,6 +13,8 @@
 
 ## 起動方法
 
+※ `/docker-mysql` で行うこと。
+
 - イメージのビルド
   `$ Docker-Compose build`
 
